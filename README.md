@@ -205,12 +205,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost wordcloud spacy
 python -m spacy download en_core_web_sm
 ```
 
----
-
-## Contributors
-
-- Ishaan Panchal
-- Kunal Sahjwani
-- Shivam Juneja
-
-*Course: MSIS 680 Advanced Data Mining*
